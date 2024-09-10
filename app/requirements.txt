@@ -1,0 +1,6 @@
+APIFlask==2.2.0
+SQLAlchemy==2.0.32
+PyMySQL==1.1.1
+watchdog==5.0.2
+python-dotenv==1.0.1
+marshmallow==3.22.0
